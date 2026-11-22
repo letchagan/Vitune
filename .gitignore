@@ -1,0 +1,25 @@
+/.sdk
+*.iml
+.gradle
+/local.properties
+.idea
+.DS_Store
+build
+
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+.kotlin
+
+.quickjs_cache/
+jniLibs/
+
+# VLC that the desktop app bundles into its installer (see desktop/README.md)
+/vlc-runtime/
+
+/.envrc
+/.direnv
+/result*
+/repl-result*
